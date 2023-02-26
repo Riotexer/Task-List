@@ -11,12 +11,6 @@
       "text": "Comprar comida para fin de semana",
       "day": "Febrero 25",
       "reminder": true
-    },
-    {
-      "text": "nueva tarea",
-      "day": "mañana",
-      "reminder": true,
-      "id": 3
     }
   ]
 }
